@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Container {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background-color: silver;
+}

@@ -1,2 +1,0 @@
-# alisinatvproj
-Created with CodeSandbox
